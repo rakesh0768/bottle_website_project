@@ -1,0 +1,167 @@
+.center{
+  text-align: center;
+}
+.abs{
+  position: fixed;
+}
+.logoFooter{
+  margin: 40px 0px 0px 0px;
+}
+.background_1 h3,h1{
+  font-family: 'Notable', sans-serif;
+  color: white;
+}
+.background_1{
+  background-color: #ebe3db;
+}
+.background_2{
+  background-color: #d8e882;
+}
+.background_3{
+  /* background-image: url(http://neeram.com/res/img/custom.jpg); */
+  background-image: url(F:/rake/project/neeram_pro/images/custom.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.background_4{
+  background-color: #f4db96;
+}
+.background_5{
+  /* background-image: url(http://neeram.com/res/img/work.jpg); */
+  background-image: url(F:/rake/project/neeram_pro/images/work.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.background_6{
+  background-color: #dcc8b9;
+}
+.background_7{
+  /* background-image: url(http://neeram.com/res/img/client.jpg); */
+  background-image: url(F:/rake/project/neeram_pro/images/client.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.margin_4{
+  margin: 0px 10px 200px 10px ;
+}
+
+.text_margin{
+  margin-top: -100px;
+  margin-left: 550px;
+}
+.pad_1{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.margin_1{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.margin_3{
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+/* .margin_6{
+  margin-left: 150px;
+} */
+.margin_7{
+  margin-top: 450px;
+}
+.pad_6{
+  padding-top: 50px;
+}
+.button_6{
+  background-color: #dcc8b9;
+  border: solid black;
+  left: 50%;
+  text-align: center;
+  padding: 2px 40px 2px 40px;
+}
+footer{
+  padding: 50px 0px 50px 0px;
+  background-color: black;
+  color: white;
+}
+.row-center{
+  margin: 50px auto 50px auto;
+}
+#a{
+  color: white;
+  text-decoration: none;
+}
+#white-icon{
+  color: white;
+}
+.neeram-margin{
+  margin: 50px auto 50px auto;
+}
+.neeram-margin_1{
+  margin: 50px auto 50px auto;
+}
+hr{
+  margin-left: auto;
+  margin-right: auto;
+  border-width: medium;
+  border-color: inherit;
+}
+.header_1{
+  background-color: #f8c1d9;
+}
+.place_header{
+  background-color: #f4db96;
+}
+.place_margin{
+  margin: 50px auto 50px auto;
+}
+.enquire_header{
+  background-color: #dcc8b9;
+}
+.enquire_form{
+  border: 1px solid brown;
+  margin: 80px auto 80px auto;
+  padding-top: 50px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 50px;
+}
+.hello{
+  border: 1px solid brown;
+  margin-top: -70px;
+  margin-bottom: 40px;
+  background: white;
+  /* padding: auto 5px auto 5px auto; */
+}
+.hello_1{
+  border: 1px solid brown;
+  margin-top: 40px;
+  margin-bottom: -87px;
+  background: white;
+}
+nav img{
+  margin-bottom: -100px;
+}
+.work_header{
+  background-color: #cacfd0;
+  background-image: url(images/img5.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+header .work_margin{
+  margin: 160px 0px 160px 0px;
+}
+.work_logo{
+  position: absolute;
+  bottom: 0px;
+  /* padding-top: 250px; */
+}
+.clients_header{
+  background-color: #cddef0;
+  padding-bottom: 80px;
+}
+.custom h2,h1{
+  position: inherit;
+  bottom: auto;
+}
